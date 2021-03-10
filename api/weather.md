@@ -1,3 +1,7 @@
+---
+description: "The official documentation of atomicradio api, with all information about usage and upcoming maintenance. \U0001F36D"
+---
+
 # Weather
 
 {% hint style="warning" %}

@@ -1,3 +1,7 @@
+---
+description: "The official documentation of atomicradio api, with all information about usage and upcoming maintenance. \U0001F36D"
+---
+
 # Application
 
 Hey, if you're a developer and currently feel like volunteering for a project, you've come to the right place. We are currently looking for hardworking people at atomicnetworks who want to help expand and improve the project. Our team offers you a friendly and relaxed working atmosphere. The possibility to learn and improve your skills.
