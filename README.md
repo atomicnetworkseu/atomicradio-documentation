@@ -4,8 +4,6 @@ description: "The official documentation of the atomicradio api, with all inform
 
 # Homepage
 
-
-
 {% hint style="success" %}
 Currently we are not aware of any faults and no maintenance is planned. 🛠️
 {% endhint %}
