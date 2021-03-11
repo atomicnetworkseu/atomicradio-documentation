@@ -4,6 +4,10 @@ description: "The official documentation of atomicradio api, with all informatio
 
 # Channels
 
+{% hint style="danger" %}
+On **March 14, 2021**, we remove the all\_listeners entry from the /channels endpoint.
+{% endhint %}
+
 {% hint style="warning" %}
 This endpoint is protected by a rate limiter. All information about our Rate Limiter can be found here: [Rate Limiting](https://docs.atomicradio.eu/resources/ratelimits)
 {% endhint %}
