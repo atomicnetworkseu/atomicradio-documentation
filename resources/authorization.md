@@ -1,5 +1,5 @@
 ---
-description: "The official documentation of atomicradio api, with all information about usage and upcoming maintenance. \U0001F36D"
+description: "The security of all private information is very important to us, which is why you will find all relevant information about the authorisation process written down here. 🗝️"
 ---
 
 # Authorization

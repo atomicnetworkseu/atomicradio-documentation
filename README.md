@@ -11,7 +11,7 @@ Currently we are not aware of any faults and no maintenance is planned. 🛠️
 ##  Past Incidents
 
 {% hint style="info" %}
-**Hey I am a placeholder!**  
+**Hey, I'm a placeholder!**  
 There were no incidents at the moment.
 {% endhint %}
 
