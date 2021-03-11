@@ -1,5 +1,8 @@
 ---
-description: "We are a young team which would not function without the various people who work every day to bring our project forward and if you want to be part of this journey you are exactly right on this page! 👥"
+description: >-
+  We are a young team which would not function without the various people who
+  work every day to bring our project forward and if you want to be part of this
+  journey you are exactly right on this page! �
 ---
 
 # Application

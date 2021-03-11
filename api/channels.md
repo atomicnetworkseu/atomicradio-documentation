@@ -1,5 +1,5 @@
 ---
-description: "An endpoint which gives you all information about the current, next and last played songs. You can also find the number of current listeners, who is currently on air and some more info. 📡"
+description: "An endpoint which gives you all information about the current, next and last played songs. You can also find the number of current listeners, who is currently on air and some more info. \U0001F4E1"
 ---
 
 # Channels
@@ -9,67 +9,16 @@ A rate limiter takes care of this endpoint, find out more about all the security
 {% endhint %}
 
 {% api-method method="get" host="https://api.atomicradio.eu" path="/channels" %}
-{% api-method-summary %}
-Get all channels
-{% endapi-method-summary %}
-
-{% api-method-description %}
-This endpoint returns you a list of our channels.
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-The response is too big to show here.
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
 
 {% api-method method="get" host="https://api.atomicradio.eu" path="/channels/live" %}
-{% api-method-summary %}
-Get live information
-{% endapi-method-summary %}
-
-{% api-method-description %}
-This endpoint returns you informations about our livestream.
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```javascript
-{
-   "is_live": Boolean,
-   "streamer": String
-}
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
 
 {% api-method method="get" host="https://api.atomicradio.eu" path="/channels/:id" %}
 {% api-method-summary %}
-Get channel
+
 {% endapi-method-summary %}
 
 {% api-method-description %}
-This endpoint returns you information about a single channel.
+
 {% endapi-method-description %}
 
 {% api-method-spec %}

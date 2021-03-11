@@ -1,5 +1,7 @@
 ---
-description: "Get the exact weather data from your surroundings via satellite data from our partner, even with a small picture for visualisation. ☀️"
+description: >-
+  Get the exact weather data from your surroundings via satellite data from our
+  partner, even with a small picture for visualisation. ☀️
 ---
 
 # Weather
@@ -64,6 +66,4 @@ Longitude
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 

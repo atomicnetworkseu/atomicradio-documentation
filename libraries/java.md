@@ -1,5 +1,5 @@
 ---
-description: "A little help for all Java developers who would like to include our services in their projects, we are happy to support you! 📚"
+description: "A little help for all Java developers who would like to include our services in their projects, we are happy to support you! \U0001F4DA"
 ---
 
 # Java
@@ -12,10 +12,10 @@ More information and examples of how to integrate the library can be found [here
 
 ```markup
 <repositories>
-	<repository>
-	    <id>jitpack.io</id>
-	    <url>https://jitpack.io</url>
-	</repository>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
 </repositories>
 
 <dependency>
@@ -29,14 +29,14 @@ More information and examples of how to integrate the library can be found [here
 
 ```text
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+        repositories {
+            ...
+            maven { url 'https://jitpack.io' }
+        }
 }
 
 dependencies {
-	  implementation 'com.github.atomicnetworkseu:atomicradio-library:1.0.0'
+      implementation 'com.github.atomicnetworkseu:atomicradio-library:1.0.0'
 }
 ```
 
@@ -49,10 +49,10 @@ private AtomicClient atomicClient;
 
 private void test() {
   this.atomicClient = new AtomicClient();
-  
+
   Channel channel = this.atomicClient.getChannelOne();
   Channel.Song song = channel.getSong();
-  
+
   System.out.println(MessageFormat.format("[{0}] {1} - {2}", channel.getName(), song.getArtist(), song.getTitle()));
 }
 ```

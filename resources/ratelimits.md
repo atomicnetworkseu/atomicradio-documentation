@@ -1,5 +1,5 @@
 ---
-description: "All information about the security mechanisms against excessive requests to our API summarised and how you can see if you are complying with these limits. 🛡️"
+description: "All information about the security mechanisms against excessive requests to our API summarised and how you can see if you are complying with these limits. \U0001F6E1️"
 ---
 
 # Rate Limiting
