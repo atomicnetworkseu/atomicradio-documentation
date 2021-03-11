@@ -5,7 +5,7 @@ description: "Get the exact weather data from your surroundings via satellite da
 # Weather
 
 {% hint style="warning" %}
-A rate limiter is connected upstream on this endpoint, find out more about all the security mechanisms we use [here](https://docs.atomicradio.eu/resources/ratelimits).
+A rate limiter is connected to this endpoint, find out more about all the security mechanisms we use [here](https://docs.atomicradio.eu/resources/ratelimits).
 {% endhint %}
 
 {% api-method method="get" host="https://api.atomicradio.eu" path="/weather" %}
