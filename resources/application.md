@@ -6,7 +6,7 @@ description: "We are a young team which would not function without the various p
 
 Hey, if you're a developer and currently feel like volunteering for a project, you've come to the right place. We are currently looking for hardworking people at atomicnetworks who want to help expand and improve the project. Our team offers you a friendly and relaxed working atmosphere. The possibility to learn and improve your skills.
 
-Here you can find all information and requirements for the application as a developer at atomicnetworks. If you have any questions about your application, please contact our support.
+Here you can find all information and requirements for the application as a developer at atomicnetworks. If you have any questions about your application, please contact our support, otherwise we are already looking forward to receiving your application at [apply@atomicnetworks.eu](mailto:apply@atomicnetworks.eu).
 
 {% hint style="info" %}
 It could take up to a week for us to process your application.
