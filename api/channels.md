@@ -38,6 +38,35 @@ The response is too big to show here.
 {% endapi-method-spec %}
 {% endapi-method %}
 
+{% api-method method="get" host="https://api.atomicradio.eu" path="/channels/live" %}
+{% api-method-summary %}
+Get live information
+{% endapi-method-summary %}
+
+{% api-method-description %}
+This endpoint returns you informations about our livestream.
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```javascript
+{
+   "is_live": Boolean,
+   "streamer": String
+}
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
 {% api-method method="get" host="https://api.atomicradio.eu" path="/channels/:id" %}
 {% api-method-summary %}
 Get channel
@@ -65,6 +94,10 @@ Here you can use one, dance or trap as paramter value.
 ```javascript
 {
    "name": String,
+   "description": {
+      "de": String,
+      "en": String
+   },
    "listeners": Number,
    "live":{
       "is_live": Boolean,
@@ -85,10 +118,36 @@ Here you can use one, dance or trap as paramter value.
       }
    },
    "schedule":[
-      // Same structure as "song"
+      {
+         "artist": String,
+         "title": String,
+         "playlist": String,
+         "start_at": Number,
+         "end_at": Number,
+         "duration": Number,
+         "artworks":{
+            "100": String,
+            "250": String,
+            "500": String,
+            "1000": String
+         }
+      },
    ],
    "history":[
-      // Same structure as "song"
+      {
+         "artist": String,
+         "title": String,
+         "playlist": String,
+         "start_at": Number,
+         "end_at": Number,
+         "duration": Number,
+         "artworks":{
+            "100": String,
+            "250": String,
+            "500": String,
+            "1000": String
+         }
+      },
    ],
    "stream_urls":{
       "highquality": String,
@@ -260,10 +319,7 @@ This endpoint returns you the information how many are listening to this channel
 
 ```javascript
 {
-   "web": Number,
-   "discord": Number,
-   "teamspeak": Number,
-   "all": Number
+   "listeners": Number
 }
 ```
 {% endapi-method-response-example %}
@@ -310,7 +366,20 @@ This endpoint returns you a list of songs that have already been played on this 
 
 ```javascript
 [
-   // Same structure as "song"
+   {
+      "artist": String,
+      "title": String,
+      "playlist": String,
+      "start_at": Number,
+      "end_at": Number,
+      "duration": Number,
+      "artworks":{
+         "100": String,
+         "250": String,
+         "500": String,
+         "1000": String
+      }
+   }
 ]
 ```
 {% endapi-method-response-example %}
@@ -357,7 +426,20 @@ This endpoint returns you a list of songs that will be played soon on this chann
 
 ```javascript
 [
-   // Same structure as "song"
+   {
+      "artist": String,
+      "title": String,
+      "playlist": String,
+      "start_at": Number,
+      "end_at": Number,
+      "duration": Number,
+      "artworks":{
+         "100": String,
+         "250": String,
+         "500": String,
+         "1000": String
+      }
+   }
 ]
 ```
 {% endapi-method-response-example %}
@@ -377,6 +459,4 @@ This endpoint returns you a list of songs that will be played soon on this chann
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
