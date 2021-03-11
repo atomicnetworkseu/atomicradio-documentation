@@ -1,6 +1,6 @@
 ---
 description: >-
-  Get the exact weather data from your surroundings via satellite data from our
+  Get the exact weather data from your enviroment via satellite data from our
   partner, even with a small picture for visualisation. ☀️
 ---
 

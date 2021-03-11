@@ -1,5 +1,5 @@
 ---
-description: "The official documentation of the atomicradio api, with all information about the usage and upcoming maintenance. \U0001F36D"
+description: "Official documentation of the atomicradio api, with all information about the usage and upcoming maintenance. \U0001F36D"
 ---
 
 # Homepage
