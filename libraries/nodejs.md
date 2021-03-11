@@ -16,8 +16,6 @@ npm install atomicradio
 
 ## Example
 
-The use of our library is very simple. Here you can see an example, more information can be found at Github [atomicnetworkseu/**atomicradio-node**](https://github.com/atomicnetworkseu/atomicradio-node) _\*\*_or at NPM [atomicradio](https://www.npmjs.com/package/atomicradio).
-
 ```javascript
 import AtomicAPI from "atomicradio";
 

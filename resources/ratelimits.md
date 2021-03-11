@@ -4,7 +4,7 @@ description: "All information about the security mechanisms against excessive re
 
 # Rate Limiting
 
-All requests to the public parts of our API are subject to rate limits. We use rate limits to prevent abuse and overloading of our services. If you exceed this limit, your requests will be blocked for a period of time.
+All requests to the public parts of our API are subject to rate limits, which we use to prevent abuse and overloading of our services. If you exceed this limit, your requests will be blocked for a period of time.
 
 ## Route-Specific Rate Limiting
 
