@@ -5,7 +5,8 @@ description: "A little help for all NodeJS developers who would like to include 
 # Node.JS
 
 {% hint style="info" %}
-More information and examples of how to integrate the library can be found [here](https://github.com/atomicnetworkseu/atomicradio-node), we hope you enjoy experimenting!
+More information and examples of how to integrate the library can be found [here](https://github.com/atomicnetworkseu/atomicradio-node),  
+we hope you enjoy experimenting!
 {% endhint %}
 
 ## Installation

@@ -7,7 +7,8 @@ description: >-
 # Weather
 
 {% hint style="warning" %}
-A rate limiter takes care of this endpoint, find out more about all the security mechanisms we use [here](https://docs.atomicradio.eu/resources/ratelimits).
+A rate limiter takes care of this endpoint,  
+find out more about all the security mechanisms we use [here](https://docs.atomicradio.eu/resources/ratelimits).
 {% endhint %}
 
 {% api-method method="get" host="https://api.atomicradio.eu" path="/weather" %}

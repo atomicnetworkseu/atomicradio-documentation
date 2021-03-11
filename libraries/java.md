@@ -5,7 +5,8 @@ description: "A little help for all Java developers who would like to include ou
 # Java
 
 {% hint style="info" %}
-More information and examples of how to integrate the library can be found [here](https://github.com/atomicnetworkseu/atomicradio-library), we hope you enjoy experimenting!
+More information and examples of how to integrate the library can be found [here](https://github.com/atomicnetworkseu/atomicradio-library),  
+we hope you enjoy experimenting!
 {% endhint %}
 
 ## Using with Maven
