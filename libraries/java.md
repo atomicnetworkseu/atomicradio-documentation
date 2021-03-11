@@ -43,8 +43,6 @@ dependencies {
 
 ## Example
 
-The use of our library is very simple. Here you can see an example, more information can be found at Github [atomicnetworkseu/**atomicradio-library**](https://github.com/atomicnetworkseu/atomicradio-library).
-
 ```java
 private AtomicClient atomicClient;
 
