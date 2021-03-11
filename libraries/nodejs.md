@@ -1,12 +1,11 @@
 ---
-description: "The official documentation of atomicradio api, with all information about usage and upcoming maintenance. \U0001F36D"
+description: "A little help for all NodeJS developers who would like to include our services in their projects, we are happy to support you! 📚"
 ---
 
 # Node.JS
 
 {% hint style="info" %}
-You find our Java library on GitHub.  
-[atomicnetworkseu/**atomicradio-node**](https://github.com/atomicnetworkseu/atomicradio-node)\*\*\*\*
+More information and examples of how to integrate the library can be found [here](https://github.com/atomicnetworkseu/atomicradio-node), we hope you enjoy experimenting!
 {% endhint %}
 
 ## Installation

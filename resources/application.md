@@ -1,5 +1,5 @@
 ---
-description: "The official documentation of atomicradio api, with all information about usage and upcoming maintenance. \U0001F36D"
+description: "We are a young team which would not function without the various people who work every day to bring our project forward and if you want to be part of this journey you are exactly right on this page! 👥"
 ---
 
 # Application
@@ -14,20 +14,20 @@ It could take up to a week for us to process your application.
 
 ## Requirements
 
-* A minimum age of 15 years
-* Functioning and understandable microphone
-* Enough time for the project
-* Ability to work in a team, ambition, willingness to learn, discretion and flexibility
-* TeamSpeak and Discord
-* No Warn or Mute within the last 30 days
-* Spiritual maturity
-* German and English
+* Ability to work in a team, ambition, willingness to learn, discretion and flexibility.
+* A minimum age of 15 years.
+* Spiritual maturity.
+* Enough time for the project.
+* No Warn or Mute within the last 30 days.
+* TeamSpeak and Discord.
+* Functioning and understandable microphone.
+* Proficient in English and/or German.
 
 ## What we expect from you
 
 * As a Java developer, basic knowledge of Maven and Java.
-* As a backend developer Basic knowledge of Node.
-* As a frontend developer Basic knowledge with Angular, React, etc...
+* As a backend developer, basic knowledge of NodeJS.
+* As a frontend developer, basic knowledge about the use of Angular, React, etc...
 * Basic knowledge of Git and the NoSQL database MongoDB.
 * Good spelling and grammar skills.
 * Application of at least 300 words.

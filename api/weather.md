@@ -1,11 +1,11 @@
 ---
-description: "The official documentation of atomicradio api, with all information about usage and upcoming maintenance. \U0001F36D"
+description: "Get the exact weather data from your surroundings via satellite data from our partner, even with a small picture for visualisation. ☀️"
 ---
 
 # Weather
 
 {% hint style="warning" %}
-This endpoint is protected by a rate limiter. All information about our Rate Limiter can be found here: [Rate Limiting](https://docs.atomicradio.eu/resources/ratelimits)
+A rate limiter is connected upstream on this endpoint, find out more about all the security mechanisms we use [here](https://docs.atomicradio.eu/resources/ratelimits).
 {% endhint %}
 
 {% api-method method="get" host="https://api.atomicradio.eu" path="/weather" %}

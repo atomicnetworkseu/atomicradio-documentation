@@ -1,10 +1,10 @@
 ---
-description: "The official documentation of atomicradio api, with all information about usage and upcoming maintenance. \U0001F36D"
+description: "All information about the security mechanisms against excessive requests to our API summarised and how you can see if you are complying with these limits. 🛡️"
 ---
 
 # Rate Limiting
 
-All requests to our Web API are subject to rate limiting. We use rate limits to prevent the abuse and overload of our services. If you exceed this limit, your requests will be blocked for a while.
+All requests to the public parts of our API are subject to rate limits. We use rate limits to prevent abuse and overloading of our services. If you exceed this limit, your requests will be blocked for a period of time.
 
 ## Route-Specific Rate Limiting
 

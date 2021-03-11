@@ -1,11 +1,11 @@
 ---
-description: "The official documentation of atomicradio api, with all information about usage and upcoming maintenance. \U0001F36D"
+description: "An endpoint which gives you all information about the current, next and last played songs. You can also find the number of current listeners, who is currently on air and some more info. 📡"
 ---
 
 # Channels
 
 {% hint style="warning" %}
-This endpoint is protected by a rate limiter. All information about our Rate Limiter can be found here: [Rate Limiting](https://docs.atomicradio.eu/resources/ratelimits)
+A rate limiter is connected upstream on this endpoint, find out more about all the security mechanisms we use [here](https://docs.atomicradio.eu/resources/ratelimits).
 {% endhint %}
 
 {% api-method method="get" host="https://api.atomicradio.eu" path="/channels" %}
