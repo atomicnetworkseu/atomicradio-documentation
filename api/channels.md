@@ -4,8 +4,6 @@ description: "An endpoint which gives you all information about the current, nex
 
 # Channels
 
-
-
 {% hint style="warning" %}
 A rate limiter takes care of this endpoint,  
 find out more about all the security mechanisms we use [here](https://docs.atomicradio.eu/resources/ratelimits).
