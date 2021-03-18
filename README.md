@@ -4,17 +4,19 @@ description: "Official documentation of the atomicradio api, with all informatio
 
 # Homepage
 
-{% hint style="danger" %}
-**Connection problems to our API may occur.** 🛠️  
-Due to an increased traffic load on our stream, there may be connection issues to our API.  
-Our team is already working on the problem to fix it.  
-_March 16, 2021_
+{% hint style="success" %}
+Currently we are not aware of any faults and no maintenance is planned. 🛠️
 {% endhint %}
 
 ## Past Incidents
 
-{% hint style="info" %}
-**Hey, I'm a placeholder!**  
-There were no incidents at the moment.
+{% hint style="danger" %}
+**Connection problems to our API may occur.** 🛠️  
+Due to an increased traffic load on our stream, there may be connection issues to our API.  
+Our team is already working on the problem to fix it.  
+_March 16, 2021_  
+  
+**Updates**  
+__March 18, 2021 \| This incident has been resolved.
 {% endhint %}
 
