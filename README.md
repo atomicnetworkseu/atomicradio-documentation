@@ -4,8 +4,9 @@ description: "Official documentation of the atomicradio api, with all informatio
 
 # Homepage
 
-{% hint style="success" %}
-Currently we are not aware of any faults and no maintenance is planned. 🛠️
+{% hint style="warning" %}
+**Planned maintenance 🛠️**  
+Due to maintenance on **April 17, 2021**, our API and other parts of our infrastructure will be unavailable between 10am and 3pm.
 {% endhint %}
 
 ## Past Incidents
