@@ -10,8 +10,8 @@ All requests to the public parts of our API are subject to rate limits, which we
 
 | Endpoint | Requests | Block duration |
 | :--- | :--- | :--- |
-| `*` | 250/minute | 1 hour |
-| `/weather/*` | 100/minute | 1 hour |
+| `*` | 100/minute | 1 hour |
+| `/weather/*` | 50/minute | 1 hour |
 
 ## Request Headers
 
