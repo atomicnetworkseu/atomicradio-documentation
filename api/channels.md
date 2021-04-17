@@ -77,7 +77,7 @@ This endpoint returns you informations about a single channel.
 {% api-method-request %}
 {% api-method-path-parameters %}
 {% api-method-parameter name=":id" type="string" required=true %}
-Here you can use one, dance or trap as paramter value.
+Here you can use one, dance or trap as parameter value.
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 {% endapi-method-request %}
@@ -184,7 +184,7 @@ This endpoint returns you informations about our livestream.
 {% api-method-request %}
 {% api-method-path-parameters %}
 {% api-method-parameter name=":id" type="string" required=true %}
-Here you can use one, dance or trap as paramter value.
+Here you can use one, dance or trap as parameter value.
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 {% endapi-method-request %}
@@ -245,7 +245,7 @@ This endpoint returns you informations about the current playing song on this ch
 {% api-method-request %}
 {% api-method-path-parameters %}
 {% api-method-parameter name=":id" type="string" required=true %}
-Here you can use one, dance or trap as paramter value.
+Here you can use one, dance or trap as parameter value.
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 {% endapi-method-request %}
@@ -303,7 +303,7 @@ This endpoint returns you the information how many are listening to this channel
 {% api-method-request %}
 {% api-method-path-parameters %}
 {% api-method-parameter name=":id" type="string" required=true %}
-
+Here you can use one, dance or trap as parameter value.
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 {% endapi-method-request %}
@@ -350,7 +350,7 @@ This endpoint returns you a list of songs that have already been played on this 
 {% api-method-request %}
 {% api-method-path-parameters %}
 {% api-method-parameter name=":id" type="string" required=true %}
-
+Here you can use one, dance or trap as parameter value.
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 {% endapi-method-request %}
@@ -410,7 +410,7 @@ This endpoint returns you a list of songs that will be played soon on this chann
 {% api-method-request %}
 {% api-method-path-parameters %}
 {% api-method-parameter name=":id" type="string" required=true %}
-
+Here you can use one, dance or trap as parameter value.
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 {% endapi-method-request %}
