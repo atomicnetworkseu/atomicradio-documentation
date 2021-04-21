@@ -11,8 +11,6 @@ There may be connection issues to our API. Our team ist already working on the p
 
 
 
-
-
 ## Past Incidents
 
 {% hint style="warning" %}
