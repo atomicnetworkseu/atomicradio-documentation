@@ -4,14 +4,16 @@ description: "Official documentation of the atomicradio api, with all informatio
 
 # Homepage
 
+{% hint style="success" %}
+Currently we are not aware of any faults and no maintenance is planned. 🛠️
+{% endhint %}
+
+## Past Incidents
+
 {% hint style="danger" %}
 **Connection problems to our API may occur.** 🛠️  
 There may be connection issues to our API. Our team ist already working on the problem to fix it. _~April 21, 2021_
 {% endhint %}
-
-
-
-## Past Incidents
 
 {% hint style="warning" %}
 **Planned maintenance 🛠️**  
