@@ -12,6 +12,7 @@
 
 * [Channels](api/channels.md)
 * [Weather](api/weather.md)
+* [Voting](api/voting.md)
 
 ## Libraries
 
