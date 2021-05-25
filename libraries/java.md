@@ -22,7 +22,7 @@ we hope you enjoy experimenting!
 <dependency>
     <groupId>com.github.atomicnetworkseu</groupId>
     <artifactId>atomicradio-library</artifactId>
-    <version>1.0.1</version>
+    <version>2.0.0</version>
 </dependency>
 ```
 
@@ -37,7 +37,7 @@ allprojects {
 }
 
 dependencies {
-      implementation 'com.github.atomicnetworkseu:atomicradio-library:1.0.0'
+      implementation 'com.github.atomicnetworkseu:atomicradio-library:2.0.0'
 }
 ```
 
@@ -49,7 +49,7 @@ private AtomicClient atomicClient;
 private void test() {
   this.atomicClient = new AtomicClient();
 
-  Channel channel = this.atomicClient.getChannelOne();
+  Channel channel = this.atomicClient.getChannel(Channels.ONE);
   Channel.Song song = channel.getSong();
 
   System.out.println(MessageFormat.format("[{0}] {1} - {2}", channel.getName(), song.getArtist(), song.getTitle()));
